@@ -1,7 +1,4 @@
 # bump-action-demo
 
-
-
-
 # Test
 
